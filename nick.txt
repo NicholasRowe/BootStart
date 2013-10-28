@@ -1,0 +1,44 @@
+===================================
+
+Make a Theme - 
+
+	Bootstrap sass Wordpress Theme
+
+Use - 
+
+	Bootstrap Components
+	Wrapbootstrap
+
+===================================
+
+Make a Plugin -
+
+	Plugin is for bars in Liverpool
+
+		- Salt Dog Slims
+
+		- Brooklyn Mixer
+
+		- Heebie Jeebies
+
+		- Maya
+
+	Taxonomies- 
+
+		Location, Opening Times, Signature Drink, Avg Drink Price, Scene
+
+	Categories-
+		City, Bars, Nightclub, Restaurant
+
+
+Use - 
+
+	CSS Tricks Team Members
+
+===================================
+
+
+Other notes regarding this theme - 
+
+theme is playground using _s as a starting base
+required team profiles in functions
